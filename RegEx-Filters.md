@@ -74,6 +74,8 @@ Topical
 
 * `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API ([@jonohunt](http://twitter.com/jonohunt))
 
+* `(?i)super.*bowl.*|.*seahawks.*|.*patriots.*|.*brady.*|.*belicheck.*|.*sherman.*|.*carroll.*|.*xlix.*|.*marshawn.*` - Super Bowl 2015 ([@mcdev](http://twitter.com/mcdev))
+
 Arabic
 -----------
 * `#[\S]*[ضصثقفغعهخحجشسيبلاتنمكةءظطذدزروىأإآئؤ][\S]*` - mute Arabic tags ([@khaled](http://twitter.com/khaled))
